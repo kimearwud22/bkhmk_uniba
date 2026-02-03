@@ -1,0 +1,1 @@
+<img src="logo-bkhmk.jpg" alt="" {{ $attributes }}>
